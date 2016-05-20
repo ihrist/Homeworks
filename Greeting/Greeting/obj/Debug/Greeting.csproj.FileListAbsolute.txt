@@ -1,0 +1,1 @@
+c:\users\ivan\documents\visual studio 2015\Projects\Greeting\Greeting\bin\Debug\Greeting.exe.config
