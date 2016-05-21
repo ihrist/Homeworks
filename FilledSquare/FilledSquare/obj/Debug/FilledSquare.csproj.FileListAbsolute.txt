@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\bin\Debug\FilledSquare.exe.config
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\bin\Debug\FilledSquare.exe
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\bin\Debug\FilledSquare.pdb
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\obj\Debug\FilledSquare.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\obj\Debug\FilledSquare.exe
-c:\users\ivan\documents\visual studio 2015\Projects\FilledSquare\FilledSquare\obj\Debug\FilledSquare.pdb

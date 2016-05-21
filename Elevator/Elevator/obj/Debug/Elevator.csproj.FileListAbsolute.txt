@@ -1,1 +1,0 @@
-c:\users\ivan\documents\visual studio 2015\Projects\Elevator\Elevator\bin\Debug\Elevator.exe.config
