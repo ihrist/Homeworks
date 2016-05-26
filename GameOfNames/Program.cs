@@ -12,7 +12,7 @@ namespace GameOfNames
         {
             int p = int.Parse(Console.ReadLine());
             int[] fourthArray = new int[p];
-            int TotalSum = 0;
+            
             string PlayerName = string.Empty;
             long MaxPoints = long.MinValue;
             string winner = string.Empty;
@@ -21,8 +21,8 @@ namespace GameOfNames
             for (int i = 0; i < p; i++)
             {
                 PlayerName = Console.ReadLine();
-                
-                int sum = 0;
+                int InitialScores = int.Parse(Console.ReadLine());
+                int sum = InitialScores;
                 for (int j = 0; j < PlayerName.Length; j++)
                 {
                     if (PlayerName[j] % 2 ==0)
