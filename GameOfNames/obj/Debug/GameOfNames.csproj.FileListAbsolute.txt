@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\bin\Debug\GameOfNames.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\bin\Debug\GameOfNames.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\bin\Debug\GameOfNames.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\obj\Debug\GameOfNames.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNames\obj\Debug\GameOfNames.pdb
