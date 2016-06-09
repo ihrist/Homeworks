@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe.config
+C:\Users\Ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.pdb
+C:\Users\Ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.exe
+C:\Users\Ivan\documents\visual studio 2015\Projects\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.pdb
