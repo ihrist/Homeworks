@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\bin\Debug\ReverseNumbersinArray.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\bin\Debug\ReverseNumbersinArray.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\bin\Debug\ReverseNumbersinArray.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\obj\Debug\ReverseNumbersinArray.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\obj\Debug\ReverseNumbersinArray.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReverseNumbersinArray\obj\Debug\ReverseNumbersinArray.pdb

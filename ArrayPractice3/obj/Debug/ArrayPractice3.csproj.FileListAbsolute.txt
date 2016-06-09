@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\bin\Debug\ArrayPractice3.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\bin\Debug\ArrayPractice3.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\bin\Debug\ArrayPractice3.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\obj\Debug\ArrayPractice3.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\obj\Debug\ArrayPractice3.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayPractice3\obj\Debug\ArrayPractice3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\bin\Debug\01.ArrayLenght.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\bin\Debug\01.ArrayLenght.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\bin\Debug\01.ArrayLenght.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\obj\Debug\01.ArrayLenght.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\obj\Debug\01.ArrayLenght.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\01.ArrayLenght\obj\Debug\01.ArrayLenght.pdb

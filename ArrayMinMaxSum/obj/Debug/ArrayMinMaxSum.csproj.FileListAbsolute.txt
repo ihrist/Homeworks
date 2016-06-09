@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\bin\Debug\ArrayMinMaxSum.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\bin\Debug\ArrayMinMaxSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\bin\Debug\ArrayMinMaxSum.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\obj\Debug\ArrayMinMaxSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\obj\Debug\ArrayMinMaxSum.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ArrayMinMaxSum\obj\Debug\ArrayMinMaxSum.csprojResolveAssemblyReference.cache

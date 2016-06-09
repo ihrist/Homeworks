@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNamesSecondVariant\bin\Debug\GameOfNamesSecondVariant.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNamesSecondVariant\bin\Debug\GameOfNamesSecondVariant.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNamesSecondVariant\bin\Debug\GameOfNamesSecondVariant.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNamesSecondVariant\obj\Debug\GameOfNamesSecondVariant.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\GameOfNamesSecondVariant\obj\Debug\GameOfNamesSecondVariant.pdb

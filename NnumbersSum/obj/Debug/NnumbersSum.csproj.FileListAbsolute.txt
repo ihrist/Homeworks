@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\NnumbersSum\bin\Debug\NnumbersSum.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\NnumbersSum\bin\Debug\NnumbersSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\NnumbersSum\bin\Debug\NnumbersSum.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\NnumbersSum\obj\Debug\NnumbersSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\NnumbersSum\obj\Debug\NnumbersSum.pdb

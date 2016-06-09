@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\bin\Debug\SheitanovArrayPracitce.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\bin\Debug\SheitanovArrayPracitce.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\bin\Debug\SheitanovArrayPracitce.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\obj\Debug\SheitanovArrayPracitce.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\obj\Debug\SheitanovArrayPracitce.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\SheitanovArrayPracitce\obj\Debug\SheitanovArrayPracitce.pdb

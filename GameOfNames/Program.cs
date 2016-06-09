@@ -10,17 +10,16 @@ namespace GameOfNames
     {
         static void Main(string[] args)
         {
+
+
             int p = int.Parse(Console.ReadLine());
-            int[] fourthArray = new int[p];
-            
-            string PlayerName = string.Empty;
-            long MaxPoints = long.MinValue;
-            string winner = string.Empty;
-            
+            int MaxPoints =int.MinValue;
+            string winner = "";
 
             for (int i = 0; i < p; i++)
             {
-                PlayerName = Console.ReadLine();
+                
+                string PlayerName = Console.ReadLine();
                 int InitialScores = int.Parse(Console.ReadLine());
                 int sum = InitialScores;
                 for (int j = 0; j < PlayerName.Length; j++)
@@ -33,12 +32,18 @@ namespace GameOfNames
                     {
                         sum -= PlayerName[j];
                     }
-                }
+                    if (sum > MaxPoints)
+                    {
+                        MaxPoints = sum;
+                        winner = PlayerName;
+                       
+                    }
+                    Console.WriteLine("The winner is {0} - {1} points", winner, MaxPoints);
 
-                if (sum >= MaxPoints)
-                {
-                    Console.WriteLine("The winner is {0}- {1} points", PlayerName, sum);
                 }
+                
+
+               
                 
             }
 

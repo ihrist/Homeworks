@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\bin\Debug\ReversedArray.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\bin\Debug\ReversedArray.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\bin\Debug\ReversedArray.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\obj\Debug\ReversedArray.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\obj\Debug\ReversedArray.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\ReversedArray\obj\Debug\ReversedArray.pdb

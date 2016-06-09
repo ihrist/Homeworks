@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\bin\Debug\TripleSum.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\bin\Debug\TripleSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\bin\Debug\TripleSum.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\obj\Debug\TripleSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\obj\Debug\TripleSum.exe
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\ArrayPractice\TripleSum\obj\Debug\TripleSum.pdb
